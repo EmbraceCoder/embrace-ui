@@ -1,0 +1,17 @@
+{
+  "name": "@embrace-ui/docs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "embrace",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.2.2"
+  }
+}

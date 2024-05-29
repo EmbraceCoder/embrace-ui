@@ -1,0 +1,10 @@
+{
+  "name": "@embrace-ui/hooks",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "keywords": [
+    "hook"
+  ],
+  "author": "embrace",
+  "license": "ISC"
+}

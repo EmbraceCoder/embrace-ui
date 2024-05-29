@@ -1,0 +1,12 @@
+{
+  "name": "@embrace-ui/components",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "keywords": [
+    "components",
+    "embrace-ui",
+    "UI"
+  ],
+  "author": "embrace",
+  "license": "ISC"
+}

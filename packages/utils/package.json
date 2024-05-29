@@ -1,0 +1,10 @@
+{
+  "name": "@embrace-ui/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "keywords": [
+    "utils"
+  ],
+  "author": "embrace",
+  "license": "ISC"
+}
