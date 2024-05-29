@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Embrace-Ui",
   description: "高仿 ElementPlus 组件库",
+  base: '/embrace-ui/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

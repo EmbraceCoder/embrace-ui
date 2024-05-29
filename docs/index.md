@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Embrace-Ui"
   text: "高仿 ElementPlus 组件库"
-  base: "/embrace-ui/"
   tagline: My great project tagline
   actions:
     - theme: brand
