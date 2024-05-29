@@ -4,7 +4,8 @@
     "play:dev": "pnpm --filter @embrace-ui/play dev",
     "docs:dev": "pnpm --filter @embrace-ui/docs dev",
     "docs:build": "pnpm --filter @embrace-ui/docs build",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "test": "echo 'test'"
   },
   "workspaces": [
     "packages/*",
